@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: eddieo28/react-app
+        image: eddieo28/react-app:2.0
         ports:
         - containerPort: 5000
 ---
